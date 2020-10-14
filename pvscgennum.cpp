@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
+/*
+Простенькая консольная игра
+*/
 
 int main() {
     int rounds;
